@@ -4,7 +4,7 @@ Commandes :
 
 - A/E : Rotation du mat
 - R/F : Monter/Descendre crochet
-- LeftShift : Declencher les supports
+- LeftShift : Declencher les supports (possible de devoir appuyer plusieurs fois pour declencher les supports car la detection se trouve dans un fixed uppdate)
 - Fleches directives : deplacer la grue
 - W/X : Lever/Baisser le bras
 - E/D : Avancer/Retracter le bras
